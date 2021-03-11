@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### GitHub statistical reports
+[![wdpm's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdpm)](https://github.com/wdpm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdpm&layout=compact)](https://github.com/wdpm/github-readme-stats)
+
+#### Github Trophies
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=wdpm&column=7" alt="halfrost's Github Trophy" />
+
 <!--
 **wdpm/wdpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
