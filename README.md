@@ -7,7 +7,7 @@
   
 <td width="50%">
   
-#### wdpm's GitHub stats
+<!--#### wdpm's GitHub stats -->
 <!-- reports starts -->
 [![wdpm's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdpm)](https://github.com/wdpm/github-readme-stats)
 <!-- reports ends -->
@@ -15,7 +15,7 @@
   
 <td width="50%">
   
-#### Top Langs
+<!-- #### Top Langs --->
 <!-- trophies starts -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdpm&layout=compact)](https://github.com/wdpm/github-readme-stats)
 <!-- trophies ends -->
