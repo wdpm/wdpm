@@ -9,6 +9,10 @@
 
 > What I cannot create, I do not understand.
 
+<!-- Collapsible content -->
+<details>
+  <summary>Click me to expand</summary>
+  
 <table width="800px">
 <tr>
   
@@ -33,6 +37,8 @@
 
 #### Github Trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=wdpm&column=7" alt="halfrost's Github Trophy" />
+
+</details>
 
 <!--
 **wdpm/wdpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
