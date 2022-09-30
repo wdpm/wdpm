@@ -52,6 +52,14 @@
 - Go：Web 后端，服务器程序
 - Rust: 命令行程序，服务器程序，桌面应用
 
+### 技术选型
+
+- 桌面端(win/linux/mac)垮平台应用：Electron | Tauri
+- 移动端(android/ios)垮平台应用: Flutter | Kotlin
+- 静态网站生成器：VitePress | Sphinx | MkDocs
+- 常规CRUD网站（例如论坛/博客）：？
+- 
+
 </details>
 
 <!--
