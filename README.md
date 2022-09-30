@@ -40,6 +40,18 @@
 ### Github Trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=wdpm&column=7" alt="halfrost's Github Trophy" />
 
+  
+### 各编程语言的作用域
+> 列举他们各自擅长的应用领域，方便技术选择。
+
+- HTML/CSS/JavaScript/TypeScript: Web 前端，UI库/框架
+- C/C++：操作系统，底层驱动，游戏引擎
+- Java：Web 后端，服务器程序，Android 应用
+- Python：Web 后端，服务器程序，实用脚本，网络爬虫，数据科学，机器学习
+- Node.js: Web 后端
+- Go：Web 后端，服务器程序
+- Rust: 命令行程序，服务器程序，桌面应用
+
 </details>
 
 <!--
@@ -56,16 +68,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-
-### 各编程语言的作用域
-> 列举他们各自擅长的应用领域，方便技术选择。
-
-- HTML/CSS/JavaScript/TypeScript: Web 前端，UI库/框架
-- C/C++：操作系统，底层驱动，游戏引擎
-- Java：Web 后端，Web 服务器框架，Android 应用
-- Python：Web 后端，实用脚本，网络爬虫，数据科学，机器学习
-- Node.js: Web 后端
-- Go：Web 后端
-- Rust: 命令行程序，服务器程序，桌面应用。
