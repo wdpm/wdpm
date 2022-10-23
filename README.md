@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wdpm/interval:7_days&label=coding%20stats%20last%207d)
 <!--START_SECTION:waka-->
 
 ```text
