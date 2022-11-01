@@ -80,7 +80,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   2 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.87 %
+Python       2 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.75 %
+Markdown     55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+C++          19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+C            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+PHP          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
