@@ -80,12 +80,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.87 %
-Python       2 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.75 %
-Markdown     55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-C++          19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-C            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-PHP          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Python           3 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+Markdown         2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+JavaScript       2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Solidity file    1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+Solidity         54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Text             49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
