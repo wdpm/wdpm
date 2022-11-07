@@ -9,8 +9,6 @@
 
 > What I cannot create, I do not understand.
 
-> 编程四大领域：数据结构与算法，系统设计，机器学习，游戏开发。
-
 <!-- Collapsible content -->
 <details>
   <summary>Click me to expand</summary>
@@ -60,21 +58,6 @@
 - 常规CRUD网站（例如论坛/博客）：？
 
 </details>
-
-<!--
-**wdpm/wdpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wdpm/interval:7_days&label=coding%20stats%20last%207d)
 <!--START_SECTION:waka-->
