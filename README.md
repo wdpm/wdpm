@@ -59,7 +59,8 @@
 
 </details>
 
-![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wdpm/interval:7_days&label=coding%20stats%20last%207d)
+<!-- see https://wakatime.com/@ff97f785-b3f9-446e-83f3-471fab476e5f -->
+
 <!--START_SECTION:waka-->
 
 ```text
