@@ -64,7 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python             36 mins         ████████▒░░░░░░░░░░░░░░░░   33.76 %
+Bash               28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
+Text               24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+reStructuredText   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+PowerShell         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+HTML               6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
 ```
 
 <!--END_SECTION:waka-->
