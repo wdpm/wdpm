@@ -64,12 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             1 hr 11 mins    ████████████▓░░░░░░░░░░░░   50.77 %
-reStructuredText   22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-Bash               18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-HTML               16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Text               10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
