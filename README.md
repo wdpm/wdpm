@@ -64,9 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           4 hrs 57 mins   ████████████████████████▒   97.51 %
+Python           4 hrs 57 mins   ████████████████████████▒   97.46 %
 Scratch          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 PythonStub       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
