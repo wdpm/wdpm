@@ -64,10 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           3 hrs 4 mins    ████████████████████████▒   97.25 %
-Scratch          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python             2 hrs 5 mins    ██████████████████████░░░   87.52 %
+PowerShell         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Markdown           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Scratch            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
