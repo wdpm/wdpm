@@ -9,6 +9,8 @@
 
 > What I cannot create, I do not understand.
 
+> 尽信书，则不如无书。——《孟子·尽心下》
+
 <!-- Collapsible content -->
 <details>
   <summary>Click me to expand</summary>
