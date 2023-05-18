@@ -66,11 +66,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     43 mins         ███████████▒░░░░░░░░░░░░░   45.94 %
-Java         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Python       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-JavaScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-textmate     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
