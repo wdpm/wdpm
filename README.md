@@ -66,11 +66,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           7 hrs 9 mins    ████████████████████▓░░░░   82.32 %
-Markdown         1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python           6 hrs 52 mins   ███████████████████████░░   91.52 %
+Markdown         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
