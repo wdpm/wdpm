@@ -66,11 +66,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML             10 hrs 18 mins  ███████████████████▒░░░░░   77.64 %
-Markdown         2 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   19.72 %
-GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-TypeScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+HTML         9 hrs 41 mins   ██████████████████▓░░░░░░   75.22 %
+Markdown     3 hrs           █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
