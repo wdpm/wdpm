@@ -68,11 +68,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 45 mins   ███████████████████████▓░   94.21 %
-Log              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Roff             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
