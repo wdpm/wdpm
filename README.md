@@ -56,7 +56,9 @@
 
 ### 技术选型
 
-- 桌面端(win/linux/mac)跨平台应用：Electron | Tauri | QT
+- 桌面端(win/linux/mac)跨平台应用：
+  - 基于Web：Electron(Web+Node) |PyWebView(Web+Python) |Tauri(Web+Rust) |Go(Web+Wails)
+  - 基于其他：QT/PySide/PyQT(QT GUI+C++)
 - 移动端(android/ios)跨平台应用: Flutter | Kotlin
 - 静态网站生成器：VitePress | Sphinx | MkDocs
 - 常规CRUD网站（例如论坛/博客）：？
