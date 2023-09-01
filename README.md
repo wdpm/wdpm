@@ -70,11 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           1 hr 8 mins     ██████████████████████▒░░   89.00 %
-Python             4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-textmate           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Bash               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Shell Script       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
