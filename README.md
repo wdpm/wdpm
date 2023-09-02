@@ -70,7 +70,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java        1 hr 15 mins    ███████████████████▓░░░░░   78.24 %
+Groovy      11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Markdown    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Ezhil       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Assembly    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
