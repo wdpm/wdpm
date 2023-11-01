@@ -70,11 +70,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 17 mins   ████████████▓░░░░░░░░░░░░   50.16 %
-Markdown           2 hrs 10 mins   ████████████░░░░░░░░░░░░░   47.77 %
-GitIgnore file     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-PythonStub         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-TOML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown           2 hrs 10 mins   ███████████████▓░░░░░░░░░   62.70 %
+Python             1 hr 12 mins    ████████▓░░░░░░░░░░░░░░░░   34.58 %
+GitIgnore file     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+PythonStub         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TOML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
