@@ -70,9 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   57 mins         █████████████████████████   99.55 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
