@@ -70,7 +70,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           1 hr 8 mins     ██████████████████████▓░░   90.48 %
+GitIgnore file   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
