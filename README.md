@@ -70,10 +70,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           3 hrs 8 mins    ████████████████████████▒   97.09 %
-PythonStub       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python           3 hrs 8 mins    ████████████████████████▒   97.42 %
+PythonStub       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
