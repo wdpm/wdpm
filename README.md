@@ -70,7 +70,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown         2 mins          ██████████████▒░░░░░░░░░░   57.59 %
+GitIgnore file   2 mins          ██████████▓░░░░░░░░░░░░░░   42.41 %
 ```
 
 <!--END_SECTION:waka-->
