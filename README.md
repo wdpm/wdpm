@@ -70,8 +70,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         2 mins          ██████████████▒░░░░░░░░░░   57.59 %
-GitIgnore file   2 mins          ██████████▓░░░░░░░░░░░░░░   42.41 %
+Python             1 hr 34 mins    ███████████████████░░░░░░   76.27 %
+Markdown           16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+GitIgnore file     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+requirements.txt   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
