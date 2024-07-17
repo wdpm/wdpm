@@ -70,11 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           52 mins         ███████████████▓░░░░░░░░░   62.92 %
-RPMSpec          11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-GitIgnore file   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-RPM Spec         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Markdown         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
