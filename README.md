@@ -70,8 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     0 secs          ████████████████░░░░░░░░░   63.36 %
-Markdown   0 secs          █████████░░░░░░░░░░░░░░░░   36.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
