@@ -70,10 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         8 mins          ████████████████████▒░░░░   81.93 %
-GitIgnore file   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-JSON             0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-HTML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
