@@ -70,11 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       34 mins         ███████████████████▓░░░░░   79.29 %
-Markdown   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-YAML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-XML        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
